@@ -1,0 +1,3272 @@
+[
+    {
+        "_id": "678e635174645937ab22733f",
+        "id": "lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-20T15:27:40.000Z",
+        "likes": 54,
+        "trendingScore": 11,
+        "private": false,
+        "sha": "959510a4c8eff7bae27769e9232dca7d3d2b4ed3",
+        "downloads": 710658,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+            "base_model:quantized:deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-20T14:53:05.000Z",
+        "modelId": "lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-7B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "678e6343aa7b56d5f392212d",
+        "id": "lmstudio-community/DeepSeek-R1-Distill-Llama-8B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-20T15:06:35.000Z",
+        "likes": 31,
+        "trendingScore": 5,
+        "private": false,
+        "sha": "d0ac80a21158e6315dccfd568bebfa5b3ed3f1d3",
+        "downloads": 507093,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+            "base_model:quantized:deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-20T14:52:51.000Z",
+        "modelId": "lmstudio-community/DeepSeek-R1-Distill-Llama-8B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-8B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-8B-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "678e5758679a5fa994c78755",
+        "id": "lmstudio-community/DeepSeek-R1-Distill-Qwen-32B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-20T16:46:19.000Z",
+        "likes": 26,
+        "trendingScore": 4,
+        "private": false,
+        "sha": "2c8db776f8037c44c2af1fa197699a0d0c6c4b7a",
+        "downloads": 221298,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+            "base_model:quantized:deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-20T14:02:00.000Z",
+        "modelId": "lmstudio-community/DeepSeek-R1-Distill-Qwen-32B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-32B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-32B-Q6_K.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-32B-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "669fd7d6059d4083c2921cad",
+        "id": "lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-07-28T21:59:53.000Z",
+        "likes": 235,
+        "trendingScore": 2,
+        "private": false,
+        "sha": "8601e6db71269a2b12255ebdf09ab75becf22cc8",
+        "downloads": 80731,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pt",
+            "hi",
+            "es",
+            "th",
+            "base_model:meta-llama/Meta-Llama-3.1-8B-Instruct",
+            "base_model:quantized:meta-llama/Meta-Llama-3.1-8B-Instruct",
+            "license:llama3.1",
+            "endpoints_compatible",
+            "region:us"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-07-23T16:18:30.000Z",
+        "modelId": "lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-8B-Instruct-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-8B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-8B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-8B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "67950478ba1b09be7b8c58dc",
+        "id": "lmstudio-community/Qwen2.5-7B-Instruct-1M-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-25T15:39:32.000Z",
+        "likes": 20,
+        "trendingScore": 2,
+        "private": false,
+        "sha": "83f8b0654c7f6518de93dfde08315a31236df273",
+        "downloads": 104061,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2.5-7B-Instruct-1M",
+            "base_model:quantized:Qwen/Qwen2.5-7B-Instruct-1M",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-25T15:34:16.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-7B-Instruct-1M-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-1M-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-1M-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-1M-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-1M-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "679a50f5bf8dc3f952b17f97",
+        "id": "lmstudio-community/MiniCPM-o-2_6-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-29T18:54:52.000Z",
+        "likes": 4,
+        "trendingScore": 2,
+        "private": false,
+        "sha": "5a92de6a817da5aaed82bf3c70ea4007fab690dc",
+        "downloads": 4887,
+        "tags": [
+            "gguf",
+            "minicpm-o",
+            "omni",
+            "vision",
+            "ocr",
+            "multi-image",
+            "video",
+            "custom_code",
+            "audio",
+            "speech",
+            "voice cloning",
+            "live Streaming",
+            "realtime speech conversation",
+            "asr",
+            "tts",
+            "image-text-to-text",
+            "multilingual",
+            "dataset:openbmb/RLAIF-V-Dataset",
+            "base_model:openbmb/MiniCPM-o-2_6",
+            "base_model:quantized:openbmb/MiniCPM-o-2_6",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "image-text-to-text",
+        "createdAt": "2025-01-29T16:01:57.000Z",
+        "modelId": "lmstudio-community/MiniCPM-o-2_6-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "MiniCPM-o-2_6-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "MiniCPM-o-2_6-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "MiniCPM-o-2_6-Q6_K.gguf"
+            },
+            {
+                "rfilename": "MiniCPM-o-2_6-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "mmproj-model-f16.gguf"
+            }
+        ]
+    },
+    {
+        "_id": "660b66f4f5b6f08ccf1a209f",
+        "id": "lmstudio-community/dolphin-2.8-mistral-7b-v02-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-04-05T01:54:26.000Z",
+        "likes": 8,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "5c9e6a3a006e9facc8f0895d89ea8bff3cff622d",
+        "downloads": 2924,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "en",
+            "dataset:cognitivecomputations/dolphin",
+            "dataset:cognitivecomputations/dolphin-coder",
+            "dataset:cognitivecomputations/samantha-data",
+            "dataset:jondurbin/airoboros-2.2.1",
+            "dataset:teknium/openhermes-2.5",
+            "dataset:m-a-p/Code-Feedback",
+            "dataset:m-a-p/CodeFeedback-Filtered-Instruction",
+            "base_model:mistral-community/Mistral-7B-v0.2",
+            "base_model:quantized:mistral-community/Mistral-7B-v0.2",
+            "license:apache-2.0",
+            "model-index",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-04-02T02:01:24.000Z",
+        "modelId": "lmstudio-community/dolphin-2.8-mistral-7b-v02-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-IQ3_S.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q2_K.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q3_K_M.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q3_K_S.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q4_0.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q4_K_S.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q5_0.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q5_K_S.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q6_K.gguf"
+            },
+            {
+                "rfilename": "dolphin-2.8-mistral-7b-v02-Q8_0.gguf"
+            },
+            {
+                "rfilename": "original_repo_url.txt"
+            }
+        ]
+    },
+    {
+        "_id": "664e476c7a51d585f5865987",
+        "id": "lmstudio-community/Mistral-7B-Instruct-v0.3-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-22T19:48:33.000Z",
+        "likes": 27,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "29a785419661afc70b5cd91b5023a835b0092281",
+        "downloads": 19547,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:mistralai/Mistral-7B-Instruct-v0.3",
+            "base_model:quantized:mistralai/Mistral-7B-Instruct-v0.3",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-22T19:28:44.000Z",
+        "modelId": "lmstudio-community/Mistral-7B-Instruct-v0.3-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-Q8_0.gguf"
+            },
+            {
+                "rfilename": "Mistral-7B-Instruct-v0.3-f32.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "667079f8967bfd8a13aa69c3",
+        "id": "lmstudio-community/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-06-22T19:11:36.000Z",
+        "likes": 38,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "81793aca588452deb110103ff5400cc32c44e7f9",
+        "downloads": 84141,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+            "base_model:quantized:deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+            "license:other",
+            "endpoints_compatible",
+            "region:us"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-06-17T18:01:28.000Z",
+        "modelId": "lmstudio-community/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Lite-Instruct-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Lite-Instruct-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Lite-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Lite-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Lite-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Lite-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66aac17986490de8da1eaca9",
+        "id": "lmstudio-community/Mistral-Nemo-Instruct-2407-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-11-04T23:44:46.000Z",
+        "likes": 23,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "e0ffb63273e1e4dc60400f08a6d0bf2a99c4be21",
+        "downloads": 14955,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "en",
+            "fr",
+            "de",
+            "es",
+            "it",
+            "pt",
+            "ru",
+            "zh",
+            "ja",
+            "base_model:mistralai/Mistral-Nemo-Instruct-2407",
+            "base_model:quantized:mistralai/Mistral-Nemo-Instruct-2407",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-07-31T22:58:01.000Z",
+        "modelId": "lmstudio-community/Mistral-Nemo-Instruct-2407-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Mistral-Nemo-Instruct-2407-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Mistral-Nemo-Instruct-2407-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Mistral-Nemo-Instruct-2407-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Mistral-Nemo-Instruct-2407-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66e03a0d606de6b8cb6b53ef",
+        "id": "lmstudio-community/DeepSeek-Coder-V2-Instruct-0724-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-09-10T15:38:34.000Z",
+        "likes": 3,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "c174826c543bed5a2225f2eab8bc2e76a94f6dce",
+        "downloads": 789,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-Coder-V2-Instruct-0724",
+            "base_model:quantized:deepseek-ai/DeepSeek-Coder-V2-Instruct-0724",
+            "license:other",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-09-10T12:22:37.000Z",
+        "modelId": "lmstudio-community/DeepSeek-Coder-V2-Instruct-0724-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q3_K_L-00001-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q3_K_L-00002-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q3_K_L-00003-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q3_K_L-00004-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q4_K_M-00001-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q4_K_M-00002-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q4_K_M-00003-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q4_K_M-00004-of-00004.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q6_K-00001-of-00005.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q6_K-00002-of-00005.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q6_K-00003-of-00005.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q6_K-00004-of-00005.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q6_K-00005-of-00005.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q8_0-00001-of-00007.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q8_0-00002-of-00007.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q8_0-00003-of-00007.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q8_0-00004-of-00007.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q8_0-00005-of-00007.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q8_0-00006-of-00007.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-Coder-V2-Instruct-0724-Q8_0-00007-of-00007.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66e9d881cc2b1a585291b660",
+        "id": "lmstudio-community/Qwen2.5-14B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-09-19T08:24:32.000Z",
+        "likes": 9,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "11b0f308f684aa12e49714d886a8fd4a37f869e2",
+        "downloads": 12639,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2.5-14B-Instruct",
+            "base_model:quantized:Qwen/Qwen2.5-14B-Instruct",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-09-17T19:29:05.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-14B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66e9d8b40fdd0d38d7246d5a",
+        "id": "lmstudio-community/Qwen2.5-7B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-09-19T12:38:14.000Z",
+        "likes": 3,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "a8bb3906b78b3009770d7ae7d116be2ea892802d",
+        "downloads": 25462,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2.5-7B-Instruct",
+            "base_model:quantized:Qwen/Qwen2.5-7B-Instruct",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-09-17T19:29:56.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-7B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-7B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66e9d8c4ca6b80f5d6eb975b",
+        "id": "lmstudio-community/Qwen2.5-3B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-09-19T14:55:48.000Z",
+        "likes": 1,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "ebeebe9e3a2aa1b4a72c1ccdc3edca731e3408bb",
+        "downloads": 5481,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2.5-3B-Instruct",
+            "base_model:quantized:Qwen/Qwen2.5-3B-Instruct",
+            "license:other",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-09-17T19:30:12.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-3B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2.5-3B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-3B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-3B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-3B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66e9d94e95c7a0c91b8669b0",
+        "id": "lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "not-popular-enough",
+        "lastModified": "2024-09-19T14:36:38.000Z",
+        "likes": 12,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "ba62cce5619ff5abbe5eceefab7caa4b11c267bd",
+        "downloads": 17501,
+        "tags": [
+            "transformers",
+            "gguf",
+            "code",
+            "codeqwen",
+            "chat",
+            "qwen",
+            "qwen-coder",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2.5-Coder-7B-Instruct",
+            "base_model:quantized:Qwen/Qwen2.5-Coder-7B-Instruct",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "library_name": "transformers",
+        "createdAt": "2024-09-17T19:32:30.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2.5-Coder-7B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-Coder-7B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-Coder-7B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66f1a0a25f781e1d620308c3",
+        "id": "lmstudio-community/Llama-3_1-Nemotron-51B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-06T18:16:43.000Z",
+        "likes": 1,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "a3a31d1eba8417a75e250ffb5ac28ddb77b08733",
+        "downloads": 294,
+        "tags": [
+            "gguf",
+            "nvidia",
+            "llama-3",
+            "text-generation",
+            "en",
+            "base_model:nvidia/Llama-3_1-Nemotron-51B-Instruct",
+            "base_model:quantized:nvidia/Llama-3_1-Nemotron-51B-Instruct",
+            "license:other",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-09-23T17:08:50.000Z",
+        "modelId": "lmstudio-community/Llama-3_1-Nemotron-51B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3_1-Nemotron-51B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama-3_1-Nemotron-51B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3_1-Nemotron-51B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Llama-3_1-Nemotron-51B-Instruct-Q8_0-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3_1-Nemotron-51B-Instruct-Q8_0-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66f457edc51768d9d430bd1d",
+        "id": "lmstudio-community/Llama-3.2-1B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "not-popular-enough",
+        "lastModified": "2024-09-25T20:09:46.000Z",
+        "likes": 35,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "199151125cf15a129ab3b548b26afeed976df066",
+        "downloads": 32654,
+        "tags": [
+            "transformers",
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pt",
+            "hi",
+            "es",
+            "th",
+            "base_model:meta-llama/Llama-3.2-1B-Instruct",
+            "base_model:quantized:meta-llama/Llama-3.2-1B-Instruct",
+            "license:llama3.2",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "library_name": "transformers",
+        "createdAt": "2024-09-25T18:35:25.000Z",
+        "modelId": "lmstudio-community/Llama-3.2-1B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3.2-1B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3.2-1B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Llama-3.2-1B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66f457f503b5ba8a7f038707",
+        "id": "lmstudio-community/Llama-3.2-3B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "not-popular-enough",
+        "lastModified": "2025-01-14T18:09:55.000Z",
+        "likes": 32,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "c91307b5cf18c8106b1f8a6218c26ae4dbfee472",
+        "downloads": 10727,
+        "tags": [
+            "transformers",
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pt",
+            "hi",
+            "es",
+            "th",
+            "base_model:meta-llama/Llama-3.2-3B-Instruct",
+            "base_model:quantized:meta-llama/Llama-3.2-3B-Instruct",
+            "license:llama3.2",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "library_name": "transformers",
+        "createdAt": "2024-09-25T18:35:33.000Z",
+        "modelId": "lmstudio-community/Llama-3.2-3B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3.2-3B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama-3.2-3B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3.2-3B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Llama-3.2-3B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "67327d00f3705c686e33c776",
+        "id": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-4bit",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "pipeline-library-pair-not-supported",
+        "lastModified": "2024-11-13T03:10:08.000Z",
+        "likes": 4,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "96572f69fd88e9c29dd10cd3c6755dd7b30d73d9",
+        "config": {
+            "architectures": [
+                "Qwen2ForCausalLM"
+            ],
+            "model_type": "qwen2",
+            "quantization_config": {
+                "bits": 4
+            },
+            "tokenizer_config": {
+                "bos_token": null,
+                "chat_template": "{%- if tools %}\n    {{- '<|im_start|>system\\n' }}\n    {%- if messages[0]['role'] == 'system' %}\n        {{- messages[0]['content'] }}\n    {%- else %}\n        {{- 'You are Qwen, created by Alibaba Cloud. You are a helpful assistant.' }}\n    {%- endif %}\n    {{- \"\\n\\n# Tools\\n\\nYou may call one or more functions to assist with the user query.\\n\\nYou are provided with function signatures within <tools></tools> XML tags:\\n<tools>\" }}\n    {%- for tool in tools %}\n        {{- \"\\n\" }}\n        {{- tool | tojson }}\n    {%- endfor %}\n    {{- \"\\n</tools>\\n\\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\\n<tool_call>\\n{\\\"name\\\": <function-name>, \\\"arguments\\\": <args-json-object>}\\n</tool_call><|im_end|>\\n\" }}\n{%- else %}\n    {%- if messages[0]['role'] == 'system' %}\n        {{- '<|im_start|>system\\n' + messages[0]['content'] + '<|im_end|>\\n' }}\n    {%- else %}\n        {{- '<|im_start|>system\\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\\n' }}\n    {%- endif %}\n{%- endif %}\n{%- for message in messages %}\n    {%- if (message.role == \"user\") or (message.role == \"system\" and not loop.first) or (message.role == \"assistant\" and not message.tool_calls) %}\n        {{- '<|im_start|>' + message.role + '\\n' + message.content + '<|im_end|>' + '\\n' }}\n    {%- elif message.role == \"assistant\" %}\n        {{- '<|im_start|>' + message.role }}\n        {%- if message.content %}\n            {{- '\\n' + message.content }}\n        {%- endif %}\n        {%- for tool_call in message.tool_calls %}\n            {%- if tool_call.function is defined %}\n                {%- set tool_call = tool_call.function %}\n            {%- endif %}\n            {{- '\\n<tool_call>\\n{\"name\": \"' }}\n            {{- tool_call.name }}\n            {{- '\", \"arguments\": ' }}\n            {{- tool_call.arguments | tojson }}\n            {{- '}\\n</tool_call>' }}\n        {%- endfor %}\n        {{- '<|im_end|>\\n' }}\n    {%- elif message.role == \"tool\" %}\n        {%- if (loop.index0 == 0) or (messages[loop.index0 - 1].role != \"tool\") %}\n            {{- '<|im_start|>user' }}\n        {%- endif %}\n        {{- '\\n<tool_response>\\n' }}\n        {{- message.content }}\n        {{- '\\n</tool_response>' }}\n        {%- if loop.last or (messages[loop.index0 + 1].role != \"tool\") %}\n            {{- '<|im_end|>\\n' }}\n        {%- endif %}\n    {%- endif %}\n{%- endfor %}\n{%- if add_generation_prompt %}\n    {{- '<|im_start|>assistant\\n' }}\n{%- endif %}\n",
+                "eos_token": "<|im_end|>",
+                "pad_token": "<|endoftext|>",
+                "unk_token": null
+            }
+        },
+        "downloads": 406,
+        "tags": [
+            "mlx",
+            "safetensors",
+            "qwen2",
+            "code",
+            "codeqwen",
+            "chat",
+            "qwen",
+            "qwen-coder",
+            "text-generation",
+            "conversational",
+            "en",
+            "base_model:Qwen/Qwen2.5-Coder-32B-Instruct",
+            "base_model:quantized:Qwen/Qwen2.5-Coder-32B-Instruct",
+            "license:apache-2.0",
+            "4-bit",
+            "region:us"
+        ],
+        "pipeline_tag": "text-generation",
+        "library_name": "mlx",
+        "createdAt": "2024-11-11T21:54:08.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-4bit",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "added_tokens.json"
+            },
+            {
+                "rfilename": "config.json"
+            },
+            {
+                "rfilename": "merges.txt"
+            },
+            {
+                "rfilename": "model-00001-of-00004.safetensors"
+            },
+            {
+                "rfilename": "model-00002-of-00004.safetensors"
+            },
+            {
+                "rfilename": "model-00003-of-00004.safetensors"
+            },
+            {
+                "rfilename": "model-00004-of-00004.safetensors"
+            },
+            {
+                "rfilename": "model.safetensors.index.json"
+            },
+            {
+                "rfilename": "special_tokens_map.json"
+            },
+            {
+                "rfilename": "tokenizer.json"
+            },
+            {
+                "rfilename": "tokenizer_config.json"
+            },
+            {
+                "rfilename": "vocab.json"
+            }
+        ]
+    },
+    {
+        "_id": "6732844b9e05f3e25718ce67",
+        "id": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-8bit",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "pipeline-library-pair-not-supported",
+        "lastModified": "2024-11-13T03:10:10.000Z",
+        "likes": 2,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "7bd37ed2a7f007d752b3e0308a229a0fb6f85114",
+        "config": {
+            "architectures": [
+                "Qwen2ForCausalLM"
+            ],
+            "model_type": "qwen2",
+            "quantization_config": {
+                "bits": 8
+            },
+            "tokenizer_config": {
+                "bos_token": null,
+                "chat_template": "{%- if tools %}\n    {{- '<|im_start|>system\\n' }}\n    {%- if messages[0]['role'] == 'system' %}\n        {{- messages[0]['content'] }}\n    {%- else %}\n        {{- 'You are Qwen, created by Alibaba Cloud. You are a helpful assistant.' }}\n    {%- endif %}\n    {{- \"\\n\\n# Tools\\n\\nYou may call one or more functions to assist with the user query.\\n\\nYou are provided with function signatures within <tools></tools> XML tags:\\n<tools>\" }}\n    {%- for tool in tools %}\n        {{- \"\\n\" }}\n        {{- tool | tojson }}\n    {%- endfor %}\n    {{- \"\\n</tools>\\n\\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\\n<tool_call>\\n{\\\"name\\\": <function-name>, \\\"arguments\\\": <args-json-object>}\\n</tool_call><|im_end|>\\n\" }}\n{%- else %}\n    {%- if messages[0]['role'] == 'system' %}\n        {{- '<|im_start|>system\\n' + messages[0]['content'] + '<|im_end|>\\n' }}\n    {%- else %}\n        {{- '<|im_start|>system\\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\\n' }}\n    {%- endif %}\n{%- endif %}\n{%- for message in messages %}\n    {%- if (message.role == \"user\") or (message.role == \"system\" and not loop.first) or (message.role == \"assistant\" and not message.tool_calls) %}\n        {{- '<|im_start|>' + message.role + '\\n' + message.content + '<|im_end|>' + '\\n' }}\n    {%- elif message.role == \"assistant\" %}\n        {{- '<|im_start|>' + message.role }}\n        {%- if message.content %}\n            {{- '\\n' + message.content }}\n        {%- endif %}\n        {%- for tool_call in message.tool_calls %}\n            {%- if tool_call.function is defined %}\n                {%- set tool_call = tool_call.function %}\n            {%- endif %}\n            {{- '\\n<tool_call>\\n{\"name\": \"' }}\n            {{- tool_call.name }}\n            {{- '\", \"arguments\": ' }}\n            {{- tool_call.arguments | tojson }}\n            {{- '}\\n</tool_call>' }}\n        {%- endfor %}\n        {{- '<|im_end|>\\n' }}\n    {%- elif message.role == \"tool\" %}\n        {%- if (loop.index0 == 0) or (messages[loop.index0 - 1].role != \"tool\") %}\n            {{- '<|im_start|>user' }}\n        {%- endif %}\n        {{- '\\n<tool_response>\\n' }}\n        {{- message.content }}\n        {{- '\\n</tool_response>' }}\n        {%- if loop.last or (messages[loop.index0 + 1].role != \"tool\") %}\n            {{- '<|im_end|>\\n' }}\n        {%- endif %}\n    {%- endif %}\n{%- endfor %}\n{%- if add_generation_prompt %}\n    {{- '<|im_start|>assistant\\n' }}\n{%- endif %}\n",
+                "eos_token": "<|im_end|>",
+                "pad_token": "<|endoftext|>",
+                "unk_token": null
+            }
+        },
+        "downloads": 195,
+        "tags": [
+            "mlx",
+            "safetensors",
+            "qwen2",
+            "code",
+            "codeqwen",
+            "chat",
+            "qwen",
+            "qwen-coder",
+            "text-generation",
+            "conversational",
+            "en",
+            "base_model:Qwen/Qwen2.5-Coder-32B-Instruct",
+            "base_model:quantized:Qwen/Qwen2.5-Coder-32B-Instruct",
+            "license:apache-2.0",
+            "8-bit",
+            "region:us"
+        ],
+        "pipeline_tag": "text-generation",
+        "library_name": "mlx",
+        "createdAt": "2024-11-11T22:25:15.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-8bit",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "added_tokens.json"
+            },
+            {
+                "rfilename": "config.json"
+            },
+            {
+                "rfilename": "merges.txt"
+            },
+            {
+                "rfilename": "model-00001-of-00007.safetensors"
+            },
+            {
+                "rfilename": "model-00002-of-00007.safetensors"
+            },
+            {
+                "rfilename": "model-00003-of-00007.safetensors"
+            },
+            {
+                "rfilename": "model-00004-of-00007.safetensors"
+            },
+            {
+                "rfilename": "model-00005-of-00007.safetensors"
+            },
+            {
+                "rfilename": "model-00006-of-00007.safetensors"
+            },
+            {
+                "rfilename": "model-00007-of-00007.safetensors"
+            },
+            {
+                "rfilename": "model.safetensors.index.json"
+            },
+            {
+                "rfilename": "special_tokens_map.json"
+            },
+            {
+                "rfilename": "tokenizer.json"
+            },
+            {
+                "rfilename": "tokenizer_config.json"
+            },
+            {
+                "rfilename": "vocab.json"
+            }
+        ]
+    },
+    {
+        "_id": "673f6eaea31ce1fff27526fc",
+        "id": "lmstudio-community/Llama-3.1-Tulu-3-8B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-11-21T18:26:40.000Z",
+        "likes": 4,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "7033c16b4f79f8708a27d80bf2ae0c6537253d1b",
+        "downloads": 789,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "en",
+            "dataset:allenai/RLVR-GSM-MATH-IF-Mixed-Constraints",
+            "base_model:allenai/Llama-3.1-Tulu-3-8B",
+            "base_model:quantized:allenai/Llama-3.1-Tulu-3-8B",
+            "license:llama3.1",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-11-21T17:32:30.000Z",
+        "modelId": "lmstudio-community/Llama-3.1-Tulu-3-8B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-8B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-8B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-8B-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-8B-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "675330c3b598bcf2cc54613a",
+        "id": "lmstudio-community/Llama-3.3-70B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-12-06T17:58:01.000Z",
+        "likes": 44,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "3a489fd247ce24848d8d8a3fadd707088665681f",
+        "downloads": 39353,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "fr",
+            "it",
+            "pt",
+            "hi",
+            "es",
+            "th",
+            "de",
+            "base_model:meta-llama/Llama-3.3-70B-Instruct",
+            "base_model:quantized:meta-llama/Llama-3.3-70B-Instruct",
+            "license:llama3.3",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-12-06T17:13:39.000Z",
+        "modelId": "lmstudio-community/Llama-3.3-70B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3.3-70B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama-3.3-70B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3.3-70B-Instruct-Q6_K-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3.3-70B-Instruct-Q6_K-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3.3-70B-Instruct-Q8_0-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3.3-70B-Instruct-Q8_0-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "675ddfd5950a034ddcb765f4",
+        "id": "lmstudio-community/Qwen2-VL-2B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-06T18:08:55.000Z",
+        "likes": 3,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "62895f3a1e64a67cc20a29360003c4f7d4c6bcf3",
+        "downloads": 2420,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "region:us"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-12-14T19:43:17.000Z",
+        "modelId": "lmstudio-community/Qwen2-VL-2B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2-VL-2B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2-VL-2B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2-VL-2B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2-VL-2B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "mmproj-model-f32.gguf"
+            }
+        ]
+    },
+    {
+        "_id": "675df0f0cd95ed0ab8f29e5f",
+        "id": "lmstudio-community/Qwen2-VL-7B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-06T18:08:40.000Z",
+        "likes": 2,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "15bb7500308a45e2e09e784446cd78672f82fd36",
+        "downloads": 11703,
+        "tags": [
+            "gguf",
+            "multimodal",
+            "image-text-to-text",
+            "en",
+            "base_model:Qwen/Qwen2-VL-7B-Instruct",
+            "base_model:quantized:Qwen/Qwen2-VL-7B-Instruct",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "image-text-to-text",
+        "createdAt": "2024-12-14T20:56:16.000Z",
+        "modelId": "lmstudio-community/Qwen2-VL-7B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2-VL-7B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2-VL-7B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2-VL-7B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2-VL-7B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "mmproj-model-f32.gguf"
+            }
+        ]
+    },
+    {
+        "_id": "678e63758c745551e08a4f40",
+        "id": "lmstudio-community/DeepSeek-R1-Distill-Qwen-14B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-20T15:47:06.000Z",
+        "likes": 24,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "45db3b6758edf0cf590ff9335c384492d2ee0b5c",
+        "downloads": 228951,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+            "base_model:quantized:deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-20T14:53:41.000Z",
+        "modelId": "lmstudio-community/DeepSeek-R1-Distill-Qwen-14B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-14B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-14B-Q6_K.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Qwen-14B-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "678e8301be231faa35c7f661",
+        "id": "lmstudio-community/DeepSeek-R1-Distill-Llama-70B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-20T18:21:17.000Z",
+        "likes": 2,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "3725e3d1a417647db6ff23405d7c876a2ff02bb5",
+        "downloads": 35589,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+            "base_model:quantized:deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-20T17:08:17.000Z",
+        "modelId": "lmstudio-community/DeepSeek-R1-Distill-Llama-70B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-70B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-70B-Q6_K-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Distill-Llama-70B-Q8_0-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "678f055b8af7a3998766e302",
+        "id": "lmstudio-community/DeepSeek-R1-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-22T21:18:36.000Z",
+        "likes": 13,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "9d55447a52d044e19d1c2311477801d823517718",
+        "downloads": 18952,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "base_model:deepseek-ai/DeepSeek-R1",
+            "base_model:quantized:deepseek-ai/DeepSeek-R1",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-21T02:24:27.000Z",
+        "modelId": "lmstudio-community/DeepSeek-R1-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00001-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00002-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00003-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00004-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00005-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00006-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00007-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00008-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q3_K_L-00009-of-00009.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00001-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00002-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00003-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00004-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00005-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00006-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00007-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00008-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00009-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00010-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q4_K_M-00011-of-00011.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00001-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00002-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00003-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00004-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00005-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00006-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00007-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00008-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00009-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00010-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00011-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00012-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00013-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00014-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q6_K-00015-of-00015.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00001-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00002-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00003-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00004-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00005-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00006-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00007-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00008-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00009-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00010-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00011-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00012-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00013-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00014-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00015-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00016-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00017-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00018-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00019-of-00020.gguf"
+            },
+            {
+                "rfilename": "DeepSeek-R1-Q8_0-00020-of-00020.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "679504a0d114188bfe5bac1e",
+        "id": "lmstudio-community/Qwen2.5-14B-Instruct-1M-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-25T15:44:05.000Z",
+        "likes": 12,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "1804cf20a9b5c9da312beb6e40c8b984c904cd1d",
+        "downloads": 12229,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2.5-14B-Instruct-1M",
+            "base_model:quantized:Qwen/Qwen2.5-14B-Instruct-1M",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-25T15:34:56.000Z",
+        "modelId": "lmstudio-community/Qwen2.5-14B-Instruct-1M-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-1M-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-1M-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-1M-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2.5-14B-Instruct-1M-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "679b927427caf1ed2a9641e7",
+        "id": "lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-30T15:07:16.000Z",
+        "likes": 31,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "9b2f156e3fc7f1667ee0f8066d93021a6c4f6aa0",
+        "downloads": 27348,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "en",
+            "fr",
+            "de",
+            "es",
+            "it",
+            "pt",
+            "zh",
+            "ja",
+            "ru",
+            "ko",
+            "base_model:mistralai/Mistral-Small-24B-Instruct-2501",
+            "base_model:quantized:mistralai/Mistral-Small-24B-Instruct-2501",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-30T14:53:40.000Z",
+        "modelId": "lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Mistral-Small-24B-Instruct-2501-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Mistral-Small-24B-Instruct-2501-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Mistral-Small-24B-Instruct-2501-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Mistral-Small-24B-Instruct-2501-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "679ba1185f2387b7fd36eb1f",
+        "id": "lmstudio-community/Llama-3.1-Tulu-3-405B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2025-01-30T22:14:16.000Z",
+        "likes": 2,
+        "trendingScore": 1,
+        "private": false,
+        "sha": "97a6fb690bf9efbcc90786e9717bcb7f600bd72a",
+        "downloads": 879,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "en",
+            "dataset:allenai/RLVR-MATH",
+            "arxiv:2411.15124",
+            "base_model:allenai/Llama-3.1-Tulu-3-405B",
+            "base_model:quantized:allenai/Llama-3.1-Tulu-3-405B",
+            "license:llama3.1",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2025-01-30T15:56:08.000Z",
+        "modelId": "lmstudio-community/Llama-3.1-Tulu-3-405B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q3_K_L-00001-of-00006.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q3_K_L-00002-of-00006.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q3_K_L-00003-of-00006.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q3_K_L-00004-of-00006.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q3_K_L-00005-of-00006.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q3_K_L-00006-of-00006.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q4_K_M-00001-of-00007.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q4_K_M-00002-of-00007.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q4_K_M-00003-of-00007.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q4_K_M-00004-of-00007.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q4_K_M-00005-of-00007.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q4_K_M-00006-of-00007.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q4_K_M-00007-of-00007.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00001-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00002-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00003-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00004-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00005-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00006-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00007-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00008-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q6_K-00009-of-00009.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00001-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00002-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00003-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00004-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00005-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00006-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00007-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00008-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00009-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00010-of-00011.gguf"
+            },
+            {
+                "rfilename": "Llama-3.1-Tulu-3-405B-Q8_0-00011-of-00011.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "660efd2a6d98d685ae476488",
+        "id": "lmstudio-community/Hyperion-3.0-Mistral-7B-DPO-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "not-popular-enough",
+        "lastModified": "2024-04-05T01:54:07.000Z",
+        "likes": 0,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "586cb3659cf84f717366291cee555246b0a77f65",
+        "downloads": 119,
+        "tags": [
+            "transformers",
+            "gguf",
+            "text-generation",
+            "en",
+            "dataset:Locutusque/hyperion-dpo-v1.0",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us"
+        ],
+        "pipeline_tag": "text-generation",
+        "library_name": "transformers",
+        "createdAt": "2024-04-04T19:19:06.000Z",
+        "modelId": "lmstudio-community/Hyperion-3.0-Mistral-7B-DPO-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-IQ3_S.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q3_K_M.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q3_K_S.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q4_0.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q4_K_S.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q5_0.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q5_K_S.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Hyperion-3.0-Mistral-7B-DPO-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "6610c050d7dfcea8aee9e068",
+        "id": "lmstudio-community/Qwen1.5-32B-Chat-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-04-24T23:01:41.000Z",
+        "likes": 15,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "d5b50de2247b2344b53e1e030428d31a71531ef3",
+        "downloads": 334,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "license:other",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-04-06T03:24:00.000Z",
+        "modelId": "lmstudio-community/Qwen1.5-32B-Chat-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-IQ3_S.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q3_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q3_K_S.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q4_0.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q4_K_S.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q5_0.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q5_K_S.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-Q8_0.gguf"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-fp16.gguf/Qwen1.5-32B-Chat-fp16_part_a"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-fp16.gguf/Qwen1.5-32B-Chat-fp16_part_b"
+            },
+            {
+                "rfilename": "Qwen1.5-32B-Chat-fp16.gguf/combine.sh"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "6621815485446629f3a18a8b",
+        "id": "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-03T13:53:50.000Z",
+        "likes": 176,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "0910a3e69201d274d4fd68e89448114cd78e4c82",
+        "downloads": 4000,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "base_model:meta-llama/Meta-Llama-3-8B-Instruct",
+            "base_model:quantized:meta-llama/Meta-Llama-3-8B-Instruct",
+            "license:llama3",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-04-18T20:23:48.000Z",
+        "modelId": "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "LICENSE"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct.imatrix"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "USE_POLICY.md"
+            }
+        ]
+    },
+    {
+        "_id": "66228360464f3bfc92a9d052",
+        "id": "lmstudio-community/Meta-Llama-3-70B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-03T13:55:11.000Z",
+        "likes": 111,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "8917ee6563e5362a9b4622a98b96423fad2b82ab",
+        "downloads": 427,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "base_model:meta-llama/Meta-Llama-3-70B-Instruct",
+            "base_model:quantized:meta-llama/Meta-Llama-3-70B-Instruct",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-04-19T14:44:48.000Z",
+        "modelId": "lmstudio-community/Meta-Llama-3-70B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "LICENSE"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-IQ1_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-IQ2_XS.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "USE_POLICY.md"
+            }
+        ]
+    },
+    {
+        "_id": "66340035fa452df459960d61",
+        "id": "lmstudio-community/Meta-Llama-3-8B-Instruct-BPE-fix-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-03T13:54:56.000Z",
+        "likes": 12,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "a927a128f438f5cb56e29a0710793714ff3bfd4f",
+        "downloads": 157,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "base_model:meta-llama/Meta-Llama-3-8B-Instruct",
+            "base_model:quantized:meta-llama/Meta-Llama-3-8B-Instruct",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-02T21:05:57.000Z",
+        "modelId": "lmstudio-community/Meta-Llama-3-8B-Instruct-BPE-fix-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q5_K_S.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-8B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "663400403cd2414bc78ea5e0",
+        "id": "lmstudio-community/Meta-Llama-3-70B-Instruct-BPE-fix-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-03T13:54:43.000Z",
+        "likes": 4,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "192ff65cfeeb95f8332c0c2f7fb3283a1d4c45bd",
+        "downloads": 56,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "base_model:meta-llama/Meta-Llama-3-70B-Instruct",
+            "base_model:quantized:meta-llama/Meta-Llama-3-70B-Instruct",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-02T21:06:08.000Z",
+        "modelId": "lmstudio-community/Meta-Llama-3-70B-Instruct-BPE-fix-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-IQ1_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-IQ2_XS.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-70B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "6636b7c2b0a5f86a2a2d81cd",
+        "id": "lmstudio-community/Llama3-ChatQA-1.5-70B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-04T22:52:49.000Z",
+        "likes": 6,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "80589f825210b951804d82d09924b25c2086b723",
+        "downloads": 90,
+        "tags": [
+            "gguf",
+            "nvidia",
+            "chatqa-1.5",
+            "chatqa",
+            "llama-3",
+            "pytorch",
+            "text-generation",
+            "en",
+            "base_model:nvidia/Llama3-ChatQA-1.5-70B",
+            "base_model:quantized:nvidia/Llama3-ChatQA-1.5-70B",
+            "license:llama3",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-04T22:33:38.000Z",
+        "modelId": "lmstudio-community/Llama3-ChatQA-1.5-70B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-IQ1_M.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-IQ2_S.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q6_K-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q6_K-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q8_0-00001-of-00003.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q8_0-00002-of-00003.gguf"
+            },
+            {
+                "rfilename": "Llama3-ChatQA-1.5-70B-Q8_0-00003-of-00003.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "6636bce34b8613df5ccba096",
+        "id": "lmstudio-community/Llama3-ChatQA-1.5-8B-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-04T22:58:34.000Z",
+        "likes": 6,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "141c500a9f659d2123651a5d409ef99d2034e4a8",
+        "downloads": 412,
+        "tags": [
+            "gguf",
+            "nvidia",
+            "chatqa-1.5",
+            "chatqa",
+            "llama-3",
+            "pytorch",
+            "text-generation",
+            "en",
+            "base_model:nvidia/Llama3-ChatQA-1.5-8B",
+            "base_model:quantized:nvidia/Llama3-ChatQA-1.5-8B",
+            "license:llama3",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-04T22:55:31.000Z",
+        "modelId": "lmstudio-community/Llama3-ChatQA-1.5-8B-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "ChatQA-1.5-8B-IQ4_NL.gguf"
+            },
+            {
+                "rfilename": "ChatQA-1.5-8B-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "ChatQA-1.5-8B-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "ChatQA-1.5-8B-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "ChatQA-1.5-8B-Q6_K.gguf"
+            },
+            {
+                "rfilename": "ChatQA-1.5-8B-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "663c479ea14bfb0a2d9d19bc",
+        "id": "lmstudio-community/Meta-Llama-3-120B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-09T16:19:07.000Z",
+        "likes": 47,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "cef120ff442701448a262dc49f9d2573fc2c7714",
+        "downloads": 117,
+        "tags": [
+            "gguf",
+            "merge",
+            "mergekit",
+            "lazymergekit",
+            "text-generation",
+            "base_model:mlabonne/Meta-Llama-3-120B-Instruct",
+            "base_model:quantized:mlabonne/Meta-Llama-3-120B-Instruct",
+            "license:other",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-09T03:48:46.000Z",
+        "modelId": "lmstudio-community/Meta-Llama-3-120B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-IQ1_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-IQ1_S.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-IQ2_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q3_K_L-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q3_K_L-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q3_K_M-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q3_K_M-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q3_K_S-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q3_K_S-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q4_K_M-00001-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q4_K_M-00002-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q4_K_M-00003-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q4_K_S-00001-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q4_K_S-00002-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q4_K_S-00003-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q5_K_M-00001-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q5_K_M-00002-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q5_K_M-00003-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q5_K_S-00001-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q5_K_S-00002-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q5_K_S-00003-of-00003.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q6_K-00001-of-00004.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q6_K-00002-of-00004.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q6_K-00003-of-00004.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q6_K-00004-of-00004.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q8_0-00001-of-00005.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q8_0-00002-of-00005.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q8_0-00003-of-00005.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q8_0-00004-of-00005.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct-Q8_0-00005-of-00005.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3-120B-Instruct.imatrix"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "nohup.out"
+            }
+        ]
+    },
+    {
+        "_id": "6652273067b5ae524cd74ec4",
+        "id": "lmstudio-community/deepseek-coder-6.7B-kexer-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-25T19:16:55.000Z",
+        "likes": 1,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "7bf35404b944b17cb71955f645b8bbd87197b30e",
+        "downloads": 1752,
+        "tags": [
+            "gguf",
+            "code",
+            "text-generation",
+            "dataset:JetBrains/KExercises",
+            "base_model:JetBrains/deepseek-coder-6.7B-kexer",
+            "base_model:quantized:JetBrains/deepseek-coder-6.7B-kexer",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-25T18:00:16.000Z",
+        "modelId": "lmstudio-community/deepseek-coder-6.7B-kexer-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "deepseek-coder-6.7B-kexer-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "deepseek-coder-6.7B-kexer-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "deepseek-coder-6.7B-kexer-Q6_K.gguf"
+            },
+            {
+                "rfilename": "deepseek-coder-6.7B-kexer-Q8_0.gguf"
+            }
+        ]
+    },
+    {
+        "_id": "6652273c607894ea80bd3842",
+        "id": "lmstudio-community/CodeLlama-7B-KStack-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-25T19:15:39.000Z",
+        "likes": 2,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "74281cb559617518f493481995dbe43383d9a762",
+        "downloads": 680,
+        "tags": [
+            "gguf",
+            "code",
+            "text-generation",
+            "dataset:JetBrains/KStack",
+            "base_model:JetBrains/CodeLlama-7B-KStack",
+            "base_model:quantized:JetBrains/CodeLlama-7B-KStack",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-25T18:00:28.000Z",
+        "modelId": "lmstudio-community/CodeLlama-7B-KStack-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-Q6_K.gguf"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66522745f8137bb6502719c2",
+        "id": "lmstudio-community/CodeLlama-7B-KStack-clean-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-25T19:16:22.000Z",
+        "likes": 1,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "903cea15133bd321201f05c1c927727e67b59e34",
+        "downloads": 108,
+        "tags": [
+            "gguf",
+            "code",
+            "text-generation",
+            "dataset:JetBrains/KStack-clean",
+            "base_model:JetBrains/CodeLlama-7B-KStack-clean",
+            "base_model:quantized:JetBrains/CodeLlama-7B-KStack-clean",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-25T18:00:37.000Z",
+        "modelId": "lmstudio-community/CodeLlama-7B-KStack-clean-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-clean-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-clean-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-clean-Q6_K.gguf"
+            },
+            {
+                "rfilename": "CodeLlama-7B-KStack-clean-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66523776a57d0c3836e5ef18",
+        "id": "lmstudio-community/deepseek-coder-1.3B-kexer-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-05-25T19:12:58.000Z",
+        "likes": 2,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "0b4a597158c032bf4b8d908546f58f83c958a31e",
+        "downloads": 1198,
+        "tags": [
+            "gguf",
+            "code",
+            "text-generation",
+            "dataset:JetBrains/KExercises",
+            "base_model:JetBrains/deepseek-coder-1.3B-kexer",
+            "base_model:quantized:JetBrains/deepseek-coder-1.3B-kexer",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-05-25T19:09:42.000Z",
+        "modelId": "lmstudio-community/deepseek-coder-1.3B-kexer-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "README.md"
+            },
+            {
+                "rfilename": "deepseek-coder-1.3B-kexer-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "deepseek-coder-1.3B-kexer-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "deepseek-coder-1.3B-kexer-Q6_K.gguf"
+            },
+            {
+                "rfilename": "deepseek-coder-1.3B-kexer-Q8_0.gguf"
+            }
+        ]
+    },
+    {
+        "_id": "6678ba6873808d253cfb8eef",
+        "id": "lmstudio-community/Qwen2-500M-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-06-24T03:13:19.000Z",
+        "likes": 6,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "3a224df182a0065b36669999c1afb5dfc868195f",
+        "downloads": 191,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2-0.5B-Instruct",
+            "base_model:quantized:Qwen/Qwen2-0.5B-Instruct",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-06-24T00:14:32.000Z",
+        "modelId": "lmstudio-community/Qwen2-500M-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2-500M-Instruct-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Qwen2-500M-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2-500M-Instruct-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2-500M-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2-500M-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "Qwen2-500M-Instruct-f32.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66989fb1371b4f0db9332f52",
+        "id": "lmstudio-community/Llama-3-Groq-8B-Tool-Use-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-07-18T06:18:55.000Z",
+        "likes": 14,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "5205b56f932e05f8594485f8f5f18ffc8fd5e27b",
+        "downloads": 414,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "groq",
+            "tool-use",
+            "function-calling",
+            "text-generation",
+            "en",
+            "base_model:Groq/Llama-3-Groq-8B-Tool-Use",
+            "base_model:quantized:Groq/Llama-3-Groq-8B-Tool-Use",
+            "license:llama3",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-07-18T04:53:05.000Z",
+        "modelId": "lmstudio-community/Llama-3-Groq-8B-Tool-Use-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3-Groq-8B-Tool-Use-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-8B-Tool-Use-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-8B-Tool-Use-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-8B-Tool-Use-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-8B-Tool-Use-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-8B-Tool-Use-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66989fbf414edaf71655758a",
+        "id": "lmstudio-community/Llama-3-Groq-70B-Tool-Use-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-07-18T15:59:23.000Z",
+        "likes": 6,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "ee2ce82c608fc6240014ab87c637193378b1c2d0",
+        "downloads": 134,
+        "tags": [
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "groq",
+            "tool-use",
+            "function-calling",
+            "text-generation",
+            "en",
+            "base_model:Groq/Llama-3-Groq-8B-Tool-Use",
+            "base_model:quantized:Groq/Llama-3-Groq-8B-Tool-Use",
+            "license:llama3",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-07-18T04:53:19.000Z",
+        "modelId": "lmstudio-community/Llama-3-Groq-70B-Tool-Use-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q5_K_M-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q5_K_M-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q6_K-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q6_K-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q8_0-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Llama-3-Groq-70B-Tool-Use-Q8_0-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66a081c3aeccf0fd9e08bc2b",
+        "id": "lmstudio-community/Meta-Llama-3.1-70B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "not-popular-enough",
+        "lastModified": "2024-07-28T21:59:51.000Z",
+        "likes": 37,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "8f3c3f95990547b772cc2e90a1f7a32c398f771e",
+        "downloads": 442,
+        "tags": [
+            "transformers",
+            "gguf",
+            "facebook",
+            "meta",
+            "pytorch",
+            "llama",
+            "llama-3",
+            "text-generation",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pt",
+            "hi",
+            "es",
+            "th",
+            "base_model:meta-llama/Llama-3.1-70B-Instruct",
+            "base_model:quantized:meta-llama/Llama-3.1-70B-Instruct",
+            "license:llama3.1",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "library_name": "transformers",
+        "createdAt": "2024-07-24T04:23:31.000Z",
+        "modelId": "lmstudio-community/Meta-Llama-3.1-70B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-IQ2_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-IQ3_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q3_K_L.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q3_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q3_K_S.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q5_K_M-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q5_K_M-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q6_K-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q6_K-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q8_0-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Meta-Llama-3.1-70B-Instruct-Q8_0-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66a2795057667c1848fdd299",
+        "id": "lmstudio-community/Mistral-Large-Instruct-2407-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-08-29T02:37:51.000Z",
+        "likes": 13,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "e0b81849619f12013742b7b930207f8664b26c6e",
+        "downloads": 170,
+        "tags": [
+            "gguf",
+            "text-generation",
+            "en",
+            "fr",
+            "de",
+            "es",
+            "it",
+            "pt",
+            "zh",
+            "ja",
+            "ru",
+            "ko",
+            "base_model:mistralai/Mistral-Large-Instruct-2407",
+            "base_model:quantized:mistralai/Mistral-Large-Instruct-2407",
+            "license:other",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-07-25T16:12:00.000Z",
+        "modelId": "lmstudio-community/Mistral-Large-Instruct-2407-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-IQ2_M.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-IQ3_M-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-IQ3_M-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-IQ3_XXS.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-IQ4_XS-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-IQ4_XS-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-Q2_K.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-Q3_K_M-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-Q3_K_M-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-Q4_K_M-00001-of-00002.gguf"
+            },
+            {
+                "rfilename": "Mistral-Large-Instruct-2407-Q4_K_M-00002-of-00002.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    },
+    {
+        "_id": "66b4e2e295f713f98754e36a",
+        "id": "lmstudio-community/Qwen2-Math-1.5B-Instruct-GGUF",
+        "author": "lmstudio-community",
+        "gated": false,
+        "inference": "library-not-detected",
+        "lastModified": "2024-08-08T15:26:11.000Z",
+        "likes": 0,
+        "trendingScore": 0,
+        "private": false,
+        "sha": "4144109e282e281ed29034e690e4152c7d7ced82",
+        "downloads": 3176,
+        "tags": [
+            "gguf",
+            "chat",
+            "text-generation",
+            "en",
+            "base_model:Qwen/Qwen2-Math-1.5B-Instruct",
+            "base_model:quantized:Qwen/Qwen2-Math-1.5B-Instruct",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "region:us",
+            "imatrix",
+            "conversational"
+        ],
+        "pipeline_tag": "text-generation",
+        "createdAt": "2024-08-08T15:23:14.000Z",
+        "modelId": "lmstudio-community/Qwen2-Math-1.5B-Instruct-GGUF",
+        "siblings": [
+            {
+                "rfilename": ".gitattributes"
+            },
+            {
+                "rfilename": "Qwen2-Math-1.5B-Instruct-IQ4_XS.gguf"
+            },
+            {
+                "rfilename": "Qwen2-Math-1.5B-Instruct-Q4_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2-Math-1.5B-Instruct-Q5_K_M.gguf"
+            },
+            {
+                "rfilename": "Qwen2-Math-1.5B-Instruct-Q6_K.gguf"
+            },
+            {
+                "rfilename": "Qwen2-Math-1.5B-Instruct-Q8_0.gguf"
+            },
+            {
+                "rfilename": "README.md"
+            }
+        ]
+    }
+]
